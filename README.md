@@ -77,8 +77,8 @@
 
 **👨‍💻 Vinkal**  
 📧 Email: [vinkal93041@gmail.com]  
-🌐 Website: [vinkal041.blogspot.com]  
-💼 GitHub: [@your-github](https://github.com/vinkal93)
+🌐 Website: [vinkal041] (https://vinkal041.blogspot.com)  
+💼 GitHub: [@vinkal93](https://github.com/vinkal93)
 
 ---
 
